@@ -17,12 +17,32 @@ Open to opportunities in **web development, full-stack projects, and game develo
 
 ---
 
-## 🛠️ Skills
+ 
 
-**Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind, JavaScript  
-**Backend:** Node.js, Express.js, MongoDB  
-**Game Development:** Unity, C#, 2D & 3D Game Development, Game Mechanics  
-**Tools & Platforms:** Git, GitHub, VS Code, Postman, Figma  
+## 🔧 Core Technical Focus
+
+### Frontend Engineering
+- **React, Next.js (App Router)** – Modern component architecture & SSR
+- **TypeScript, JavaScript (ES6+)** – Type-safe development
+- **Tailwind CSS** – Responsive UI systems & design systems
+- **Component-driven development** – Reusable, maintainable components
+- **Accessibility & performance optimization** – WCAG compliance & Core Web Vitals
+
+### Backend & APIs
+- **Node.js, Express / REST APIs** – Scalable server-side applications
+- **Authentication & authorization** – JWT, role-based access control
+- **MongoDB, PostgreSQL** – Relational & NoSQL database modeling
+- **API performance, validation, and error handling** – Production-ready endpoints
+
+### Cloud & DevOps (Applied, Not Theoretical)
+- **AWS EC2** – Backend deployment & server management  
+- **AWS S3** – Static assets & storage  
+- **AWS RDS / MongoDB Atlas** – Managed databases  
+- **IAM (basics)** – Access control & security fundamentals  
+- **Docker (foundations)** – Containerized development  
+- **GitHub Actions (basic CI/CD)** – Automated builds & deploys  
+
+> Focus: shipping applications that run reliably in production.
 
 ---
 
