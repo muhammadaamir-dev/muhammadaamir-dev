@@ -10,7 +10,7 @@ Full-Stack Web Developer (MERN Stack) | React.js | Next.js | Node.js | Express.j
 
 ## 💼 **About Me**
 
-I am a **Full-Stack Software Developer** specializing in the **MERN Stack**, with experience in building **scalable, responsive, and production-ready web applications**.
+I am a **Full-Stack Developer** specializing in the **MERN Stack**, with experience in building **scalable, responsive, and production-ready web applications**.
 
 Alongside web development, I work as a **Unity Game Developer** using **C#**, contributing to **live 2D & 3D games** for company projects (code is proprietary).
 
@@ -117,7 +117,12 @@ Git • GitHub • GitHub Actions • Vercel • Netlify • WordPress • Trell
 
 ---
 
-> **Focused execution**  
-> **Practical engineering**  
-> **Continuous growth**
+<div align="center">
+  
+> **Focused execution.**  
+> **Practical engineering.**  
+> **Continuous growth.**
 
+**⭐ Star this repo if you find it helpful!**
+
+</div>
