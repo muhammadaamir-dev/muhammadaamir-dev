@@ -1,4 +1,4 @@
-# Hi, I'm Aamir 👋
+# Hi, I'm  Muhammad Aamir 👋
 
 ## 🚀 Full-Stack Developer | MERN Stack & Unity Game Developer
 
@@ -58,7 +58,7 @@ Open to opportunities in **web development, full-stack projects, and game develo
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/umairazmat">
+  <a href="https://github.com/muhammadaamir-dev">
     <img src="https://github-profile-trophy.vercel.app/?username=umairazmat&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&theme=radical" alt="GitHub Trophies" />
   </a>
 </p>
@@ -72,7 +72,7 @@ Open to opportunities in **web development, full-stack projects, and game develo
     <td width="50%">
       <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
-        <a href="https://github.com/umairazmat">
+        <a href="https://github.com/muhammadaamir-dev">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=umairazmat&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b9d&text_color=ffffff&icon_color=ff6b9d" alt="GitHub Stats" />
         </a>
       </p>
@@ -80,7 +80,7 @@ Open to opportunities in **web development, full-stack projects, and game develo
     <td width="50%">
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
-        <a href="https://github.com/umairazmat">
+        <a href="https://github.com/muhammadaamir-dev">
           <img align="center" src="https://github-readme-streak-stats.demolab.com/?user=umairazmat&theme=radical&hide_border=true&background=0D1117&fire=ff6b9d&ring=ff6b9d&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ff6b9d" alt="Streak Stats" />
         </a>
       </p>
@@ -90,7 +90,7 @@ Open to opportunities in **web development, full-stack projects, and game develo
     <td width="50%">
       <h3 align="center"><strong>Top Languages</strong></h3>
       <p align="center">
-        <a href="https://github.com/umairazmat">
+        <a href="https://github.com/muhammadaamir-dev">
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairazmat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b9d&text_color=ffffff" alt="Top Languages" />
         </a>
       </p>
@@ -100,7 +100,7 @@ Open to opportunities in **web development, full-stack projects, and game develo
       <p align="center">
         <!-- Add your featured project here when ready -->
         <!-- 
-        <a href="https://github.com/umairazmat/your-repo">
+        <a href=" https://github.com/muhammadaamir-dev/your-repo">
           <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=umairazmat&repo=your-repo&theme=radical&show_owner=true&bg_color=0D1117&title_color=ff6b9d&text_color=ffffff" alt="Featured Project" />
         </a>
         -->
@@ -127,7 +127,7 @@ Open to opportunities in **web development, full-stack projects, and game develo
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;" />
 </a>
 
-<a href="https://github.com/umairazmat" target="_blank">
+<a href="https://github.com/muhammadaamir-dev" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;" />
 </a> 
 
