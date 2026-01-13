@@ -10,15 +10,13 @@ Full-Stack Web Developer (MERN Stack) | React.js | Next.js | Node.js | Express.j
 
 ## 💼 **About Me**
 
-I am a **Full-Stack Developer** specializing in the **MERN Stack**, with experience in building **scalable, responsive, and production-ready web applications**.
+I'm a **Full-Stack Web Developer** with hands-on experience in the **MERN stack**, focused on building scalable, secure, and performance-driven web applications. I work with **MongoDB, Express.js, React.js, Next.js, and Node.js** to design RESTful APIs, manage databases, implement authentication systems, and create responsive user interfaces.
 
-Alongside web development, I work as a **Unity Game Developer** using **C#**, contributing to **live 2D & 3D games** for company projects (code is proprietary).
+I started my professional journey as a **Unity Game Developer**, where I worked on **2D, 3D, and hyper-casual games**. I have experience building games from scratch, implementing UI changes, improving gameplay mechanics, and adding new features using **C# and Unity**. This background strengthened my problem-solving skills, logical thinking, and performance optimization mindset.
 
-I am passionate about:
-- Writing clean, maintainable code  
-- Solving real-world problems  
-- Learning modern technologies  
-- Building impactful software products  
+Currently, my primary focus is **web development**, where I enjoy working across the full development lifecycle—from backend architecture and API development to modern frontend implementation. My game development experience allows me to bring creativity, strong debugging skills, and user-focused thinking into web projects.
+
+I'm continuously learning new technologies, improving my development skills, and open to opportunities that help me grow as a **Web and Full-Stack Developer**.
 
 🚀 **Open to remote opportunities**  
 🎓 **Available for teaching & mentorship roles**
