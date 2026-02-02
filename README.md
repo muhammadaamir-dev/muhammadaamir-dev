@@ -1,4 +1,4 @@
- 
+  
  # 👋 Hi, I'm **Muhammad Aamir**
 
 ## 🚀 **Full-Stack Developer | MERN Stack & Unity Game Developer**
@@ -63,31 +63,199 @@ Git • GitHub • GitHub Actions • Vercel • Netlify • WordPress • Trell
 
 ---
 
-## 📂 **Projects**
+  ##📂 **Projects** ---
+ 
+ 
 
-### 🌐 **Web Projects (Personal / Public)**
+### **1️⃣ Food Ordering App (Frontend – React)**
 
-#### **Food Delivery Website (Frontend)**
-**Tech:** React.js, Tailwind CSS  
-**Description:** Responsive food ordering UI with reusable components.  
-🔗 **GitHub:** Add repo link  
-🌍 **Live Demo:** Add live link  
+**Tech Stack:** React.js, Redux Toolkit, React Router DOM  
+
+**Description:**  
+A modern Food Ordering Web Application built using React.js, featuring clean UI, component-based architecture, product filtering, and **global state management using Redux Toolkit**. The app supports smooth navigation using React Router DOM and provides an interactive ordering experience.
+
+**Key Features**
+- Dynamic food menu with images, prices, and descriptions  
+- Product filtering by category  
+- Add-to-cart and order management system  
+- **Global cart & product state management using Redux**  
+- Reusable UI components (cards, buttons, layouts)  
+- Multi-page navigation using React Router DOM  
+- Fully responsive design for multiple screen sizes  
+
+**Skills & Technologies**
+- React.js  
+- **Redux Toolkit (Store, Slices, Global State Management)**  
+- React Router DOM  
+- Props Drilling  
+- Component Reusability  
+- State Management (Redux & useState)  
+- JSX & Conditional Rendering  
+
+**What I Learned**
+- Implementing **Redux Toolkit** for scalable global state management  
+- Managing cart, products, and filters using Redux  
+- Integrating Redux with React Router  
+- Building reusable and maintainable React components  
+- Structuring a real-world React application  
+
+🔗 **GitHub:** https://github.com/your-username/food-ordering-app  
+🌍 **Live Demo:** https://food-ordering-app.vercel.app  
+
+
+---
+### **3️⃣ Grocery Store Website (Frontend – React)**
+
+**Tech Stack:** React.js, Tailwind CSS, React Router DOM  
+
+**Description:**  
+A fully responsive **Grocery Store Frontend Website** built using React.js and Tailwind CSS, focusing on modern UI design, smooth navigation, and reusable component architecture.
+
+**Key Features**
+- Multi-page navigation using **React Router DOM**  
+- Responsive Navbar and Hero sections  
+- Product listings and category-based sections  
+- Testimonial slider using Swiper  
+- Modern footer and clean UI layout  
+- Fully responsive design for all screen sizes  
+
+**Skills & Technologies**
+- React.js  
+- React Router DOM  
+- Tailwind CSS  
+- Component Reusability  
+- Responsive UI Design  
+
+ 
+
+**What I Learned**
+- Creating complete frontend layouts from scratch  
+- Implementing multi-page navigation in React  
+- Building reusable and scalable UI components  
+- Designing professional and responsive UIs with Tailwind CSS  
+
+🔗 **GitHub:** https://github.com/your-username/grocery-store-frontend  
+🌍 **Live Demo:** https://grocery-store.vercel.app  
+
 
 ---
 
-#### **Book Store Website (Frontend + Backend)**
-**Tech:** React.js, Node.js, Express.js, MongoDB  
-**Description:** Book store app consuming backend APIs with search & filtering.  
-🔗 **GitHub:** Add repo link  
-🌍 **Live Demo:** Add live link  
+
+### **2️⃣ Book Store Application (MERN – Basic Full Stack)**
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
+
+**Description:**  
+A Book Store Web Application built using the MERN stack where user and book data is stored in **MongoDB**. The application includes a **simple login and signup system** with authentication state managed on the frontend using **localStorage**. This project is slightly more advanced than a basic frontend app and introduces real backend integration.
+
+**Key Features**
+- User signup & login system  
+- User data stored in MongoDB database  
+- Authentication state handled using localStorage  
+- Dynamic book listing fetched from backend APIs  
+- Reusable frontend components  
+- RESTful APIs for frontend–backend communication  
+- Responsive UI built with Tailwind CSS  
+
+**Skills & Technologies**
+- React.js  
+- Node.js & Express.js  
+- MongoDB (Database Integration)  
+- Tailwind CSS  
+- REST API Integration  
+- Basic Authentication Logic (localStorage based)  
+
+ 
+
+**What I Learned**
+- Connecting React frontend with a Node.js & Express backend  
+- Storing and retrieving data from MongoDB  
+- Implementing simple authentication using localStorage  
+- Handling forms and API calls in React  
+- Understanding real-world frontend ↔ backend data flow  
+- Building reusable and scalable components  
+
+🔗 **GitHub:** https://github.com/your-username/book-store-app  
+🌍 **Live Demo:** https://book-store-app.vercel.app  
 
 ---
 
-#### **Restaurant App (Full MERN Stack)**
-**Tech:** React.js, Node.js, Express.js, MongoDB  
-**Description:** Complete MERN stack app with authentication, CRUD & backend integration.  
-🔗 **GitHub:** Add repo link  
-🌍 **Live Demo:** Add live link  
+### **4️⃣ Restaurant Management App (Full Stack – MERN)**
+
+**Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB  
+
+**Description:**  
+A complete **Restaurant Management Web Application** built using the MERN stack, featuring a **User Panel** and an **Admin Dashboard**. Users can order food, book tables, and manage profiles, while admins have full control over menus, orders, and bookings.
+
+**Key Features**
+
+**User Side**
+- Secure signup & login using **JWT authentication**  
+- Online food ordering and cart system  
+- Table booking functionality  
+- Order history & profile management  
+
+**Admin Side**
+- Add / Edit / Delete categories and menu items  
+- Manage customer orders and update order status  
+- View and manage table bookings  
+- Payment and customer tracking  
+
+**Skills & Technologies**
+- React.js & Tailwind CSS  
+- Node.js & Express.js  
+- MongoDB & Mongoose  
+- JWT Authentication  
+- RESTful APIs  
+- Context API  
+- Full CRUD Operations  
+
+**Backend & Utilities**
+- Cloudinary (Image upload & storage)  
+- Multer (File handling)  
+- Postman (API testing)  
+
+**What I Learned**
+- Designing **real-world Full Stack MERN architecture**  
+- Implementing secure authentication and role-based access  
+- Building and testing RESTful APIs  
+- Developing admin dashboards and management systems  
+- Handling image uploads and deployment (Vercel)  
+
+🔗 **GitHub:** https://github.com/your-username/restaurant-management-mern  
+🌍 **Live Demo:** https://restaurant-app.vercel.app  
+
+
+---
+### **6️⃣ Personal Portfolio Website (Frontend – React)**
+
+**Tech Stack:** React.js  
+
+**Description:**  
+A personal portfolio website built using React.js to showcase projects, skills, and experience. The website focuses on **modern UI animations**, clean component architecture, and a professional responsive design.
+
+**Key Features**
+- Animated loading bar  
+- Advanced UI animations  
+- Reusable and modular components  
+- Data handling using props drilling  
+- Responsive and modern UI design  
+
+**Skills & Technologies**
+- React.js  
+- Props Drilling  
+- Component Reusability  
+- UI Animations  
+- Modern Frontend Practices  
+
+**What I Learned**
+- Designing a professional portfolio UI  
+- Integrating animations in React applications  
+- Structuring reusable and scalable components  
+- Improving overall frontend code organization  
+
+🔗 **GitHub:** https://github.com/your-username/portfolio  
+🌍 **Live Demo:** https://portfolio.vercel.app  
 
 ---
 
