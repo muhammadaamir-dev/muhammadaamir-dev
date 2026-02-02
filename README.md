@@ -287,8 +287,9 @@ A casual mobile puzzle game where players merge planets to create new ones and a
 **What I Learned:**  
 - Designing merge-based puzzle mechanics  
 - Creating smooth animations for UI and game objects  
-- Balancing gameplay difficulty for casual gamers  
+- Balancing gameplay difficulty for casual gamers
 
+🌍 **Live Demo:** https://food-ordering-app.vercel.app  
 ---
 
 ## 2️⃣ Ice Cream Cupcake Kitchen Game
@@ -313,7 +314,9 @@ A cooking simulation game where players create ice cream cones, cupcakes, and ot
 **What I Learned:**  
 - Implementing interactive cooking mechanics  
 - Creating responsive UI for kids and casual players  
-- Managing multiple objects and ingredients dynamically  
+- Managing multiple objects and ingredients dynamically
+
+  🌍 **Live Demo:** https://food-ordering-app.vercel.app  
 
 ---
 
@@ -340,7 +343,7 @@ A dress-up and makeup simulation game where players style characters for wedding
 - Designing character customization systems  
 - Handling multiple selection options and UI states  
 - Creating engaging casual games for mobile platforms  
-
+🌍 **Live Demo:** https://food-ordering-app.vercel.app  
 ---
 
 ## 4️⃣ Good Sort
@@ -366,7 +369,7 @@ A sorting puzzle game where players organize objects by color, size, or type to 
 - Implementing dynamic sorting mechanics  
 - Creating engaging time- and rule-based challenges  
 - Balancing difficulty to maintain fun gameplay  
-
+🌍 **Live Demo:** https://food-ordering-app.vercel.app  
 ---
 
 ## 5️⃣ Makeup Dress Up
@@ -392,7 +395,7 @@ A casual makeup and styling game where players experiment with hairstyles, makeu
 - Designing interactive customization systems  
 - Handling multiple options and drag-and-drop UI  
 - Engaging casual game design for mobile platforms  
-
+🌍 **Live Demo:** https://food-ordering-app.vercel.app  
 ---
 
 
