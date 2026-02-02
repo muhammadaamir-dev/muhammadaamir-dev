@@ -100,8 +100,9 @@ A modern Food Ordering Web Application built using React.js, featuring clean UI,
 - Building reusable and maintainable React components  
 - Structuring a real-world React application  
 
-🔗 **GitHub:** https://github.com/your-username/food-ordering-app  
-🌍 **Live Demo:** https://food-ordering-app.vercel.app  
+🔗 **GitHub:** https://github.com/muhammadaamir-dev/Food_Ordering_app  
+
+🌍 **Live Demo:** https://aamirfoodordering.vercel.app/ 
 
 
 ---
@@ -135,8 +136,9 @@ A fully responsive **Grocery Store Frontend Website** built using React.js and T
 - Building reusable and scalable UI components  
 - Designing professional and responsive UIs with Tailwind CSS  
 
-🔗 **GitHub:** https://github.com/your-username/grocery-store-frontend  
-🌍 **Live Demo:** https://grocery-store.vercel.app  
+🔗 **GitHub:**  https://github.com/muhammadaamir-dev/GroceryStore
+
+🌍 **Live Demo:** https://aamirgrocerystore.vercel.app/
 
 
 ---
@@ -176,8 +178,9 @@ A Book Store Web Application built using the MERN stack where user and book data
 - Understanding real-world frontend ↔ backend data flow  
 - Building reusable and scalable components  
 
-🔗 **GitHub:** https://github.com/your-username/book-store-app  
-🌍 **Live Demo:** https://book-store-app.vercel.app  
+🔗 **GitHub:** https://github.com/muhammadaamir-dev/BookStore
+
+🌍 **Live Demo:** https://book-store-ywss.vercel.app/ 
 
 ---
 
@@ -223,8 +226,9 @@ A complete **Restaurant Management Web Application** built using the MERN stack,
 - Developing admin dashboards and management systems  
 - Handling image uploads and deployment (Vercel)  
 
-🔗 **GitHub:** https://github.com/your-username/restaurant-management-mern  
-🌍 **Live Demo:** https://restaurant-app.vercel.app  
+🔗 **GitHub:** https://github.com/muhammadaamir-dev/Resturant_FullStack 
+
+🌍 **Live Demo:** https://full-stack-resturant-phi.vercel.app/  
 
 
 ---
@@ -255,14 +259,15 @@ A personal portfolio website built using React.js to showcase projects, skills, 
 - Structuring reusable and scalable components  
 - Improving overall frontend code organization  
 
-🔗 **GitHub:** https://github.com/your-username/portfolio  
-🌍 **Live Demo:** https://portfolio.vercel.app  
+🔗 **GitHub:** https://github.com/muhammadaamir-dev/portfolio 
+
+🌍 **Live Demo:** https://muhammadaamir.vercel.app/ 
+
+---
 
 ---
 
 ### 🎮 **Game Projects (Company / Proprietary)**
-
- 
 
 ---
 
@@ -290,7 +295,8 @@ A casual mobile puzzle game where players merge planets to create new ones and a
 - Creating smooth animations for UI and game objects  
 - Balancing gameplay difficulty for casual gamers
 
-🌍 **Live Demo:** https://food-ordering-app.vercel.app  
+🌍 **Live Demo:** https://play.google.com/store/apps/details?id=com.tgs.planet.merge.game
+
 ---
 
 ## 2️⃣ Ice Cream Cupcake Kitchen Game
@@ -317,7 +323,7 @@ A cooking simulation game where players create ice cream cones, cupcakes, and ot
 - Creating responsive UI for kids and casual players  
 - Managing multiple objects and ingredients dynamically
 
-  🌍 **Live Demo:** https://food-ordering-app.vercel.app  
+🌍 **Live Demo:** https://play.google.com/store/apps/details?id=com.tgs.icecream.cupcake.makergame.restaurants.cookinggame
 
 ---
 
@@ -344,7 +350,9 @@ A dress-up and makeup simulation game where players style characters for wedding
 - Designing character customization systems  
 - Handling multiple selection options and UI states  
 - Creating engaging casual games for mobile platforms  
-🌍 **Live Demo:** https://food-ordering-app.vercel.app  
+
+🌍 **Live Demo:** https://play.google.com/store/apps/details?id=com.gts.barbie.dress.up.game
+
 ---
 
 ## 4️⃣ Good Sort
@@ -370,7 +378,9 @@ A sorting puzzle game where players organize objects by color, size, or type to 
 - Implementing dynamic sorting mechanics  
 - Creating engaging time- and rule-based challenges  
 - Balancing difficulty to maintain fun gameplay  
-🌍 **Live Demo:** https://food-ordering-app.vercel.app  
+
+🌍 **Live Demo:** https://play.google.com/store/apps/details?id=com.tgs.goods.sort.game.sorting
+
 ---
 
 ## 5️⃣ Makeup Dress Up
@@ -396,11 +406,19 @@ A casual makeup and styling game where players experiment with hairstyles, makeu
 - Designing interactive customization systems  
 - Handling multiple options and drag-and-drop UI  
 - Engaging casual game design for mobile platforms  
-🌍 **Live Demo:** https://food-ordering-app.vercel.app  
+
+🌍 **Live Demo:** https://play.google.com/store/apps/details?id=com.tgs.bridal.wedding.dressup.makeovergame.fashionshow
+
 ---
 
+### 🔗 See More Games / Portfolio
+
+For additional Unity 2D/3D projects or other games created from scratch, visit my full portfolio:  
+🌍 **Live Demo:** https://play.google.com/store/apps/developer?id=Think+Games+Studios
+ 
 
 ---
+
 
 
 
