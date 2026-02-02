@@ -261,11 +261,140 @@ A personal portfolio website built using React.js to showcase projects, skills, 
 
 ### 🎮 **Game Projects (Company / Proprietary)**
 
-#### **Unity 2D / 3D Live Game**
-**Tech:** Unity, C#  
-**Description:** Live production game developed for a company.  
-⚠️ Source code is proprietary.  
-▶️ **Live Game:** Add live link  
+ 
+
+---
+
+## 1️⃣ Planet Merge Master – Merge it
+
+**Tech Stack:** Unity, C#
+
+**Description:**  
+A casual mobile puzzle game where players merge planets to create new ones and achieve higher scores. Designed for engaging gameplay with colorful graphics and addictive mechanics.
+
+**Key Features:**  
+- Merge planets to create higher-level planets  
+- Increasing difficulty levels  
+- Colorful and interactive UI  
+- Scoring system and progressive challenges  
+
+**Skills & Technologies:**  
+- Unity (2D game development)  
+- C# scripting  
+- Game UI design  
+- Gameplay logic and progression  
+
+**What I Learned:**  
+- Designing merge-based puzzle mechanics  
+- Creating smooth animations for UI and game objects  
+- Balancing gameplay difficulty for casual gamers  
+
+---
+
+## 2️⃣ Ice Cream Cupcake Kitchen Game
+
+**Tech Stack:** Unity, C#
+
+**Description:**  
+A cooking simulation game where players create ice cream cones, cupcakes, and other desserts. The game allows customization, decorating, and interactive gameplay for kids and casual players.
+
+**Key Features:**  
+- Create and decorate ice cream cones and cupcakes  
+- Choose ingredients and toppings  
+- Interactive kitchen UI  
+- Colorful and kid-friendly graphics  
+
+**Skills & Technologies:**  
+- Unity (2D game development)  
+- C# scripting for interactive objects  
+- UI & UX design for casual games  
+- Game animations and feedback  
+
+**What I Learned:**  
+- Implementing interactive cooking mechanics  
+- Creating responsive UI for kids and casual players  
+- Managing multiple objects and ingredients dynamically  
+
+---
+
+## 3️⃣ Dress Up Games: Wedding Makeup
+
+**Tech Stack:** Unity, C#
+
+**Description:**  
+A dress-up and makeup simulation game where players style characters for weddings. Players can choose outfits, accessories, and makeup for characters to create their desired look.
+
+**Key Features:**  
+- Select and apply outfits, makeup, and accessories  
+- Interactive character customization  
+- Multiple styling options for creativity  
+- Kid-friendly, casual gameplay  
+
+**Skills & Technologies:**  
+- Unity (2D game development)  
+- C# scripting for UI and interactions  
+- Game character customization  
+- Implementing multiple options and selection logic  
+
+**What I Learned:**  
+- Designing character customization systems  
+- Handling multiple selection options and UI states  
+- Creating engaging casual games for mobile platforms  
+
+---
+
+## 4️⃣ Good Sort
+
+**Tech Stack:** Unity, C#
+
+**Description:**  
+A sorting puzzle game where players organize objects by color, size, or type to achieve goals. Designed for casual players looking for quick, fun, and challenging gameplay.
+
+**Key Features:**  
+- Sort objects based on given rules  
+- Increasing difficulty and time-based challenges  
+- Colorful, interactive, and intuitive UI  
+- Scoring system with progression  
+
+**Skills & Technologies:**  
+- Unity (2D game development)  
+- C# scripting for interactive gameplay  
+- Game UI and feedback design  
+- Level progression logic  
+
+**What I Learned:**  
+- Implementing dynamic sorting mechanics  
+- Creating engaging time- and rule-based challenges  
+- Balancing difficulty to maintain fun gameplay  
+
+---
+
+## 5️⃣ Makeup Dress Up
+
+**Tech Stack:** Unity, C#
+
+**Description:**  
+A casual makeup and styling game where players experiment with hairstyles, makeup, and accessories. Focused on creativity and interactive customization.
+
+**Key Features:**  
+- Choose hairstyles, makeup, and accessories  
+- Interactive drag-and-drop customization  
+- Multiple styling options for creativity  
+- Kid-friendly, casual gameplay  
+
+**Skills & Technologies:**  
+- Unity (2D game development)  
+- C# scripting for UI and interactions  
+- Character customization logic  
+- UI handling for multiple selection options  
+
+**What I Learned:**  
+- Designing interactive customization systems  
+- Handling multiple options and drag-and-drop UI  
+- Engaging casual game design for mobile platforms  
+
+---
+
 
 ---
 
