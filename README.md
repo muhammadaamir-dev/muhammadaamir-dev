@@ -63,9 +63,10 @@ Git • GitHub • GitHub Actions • Vercel • Netlify • WordPress • Trell
 
 ---
 
-  ##📂 **Projects** ---
- 
- 
+### 🌐 **web Projects (Personal/Public)**
+
+---
+
 
 ### **1️⃣ Food Ordering App (Frontend – React)**
 
